@@ -1,0 +1,44 @@
+class SearchList {
+  String? month;
+  List<Services>? services;
+
+  SearchList({this.month, this.services});
+
+  SearchList.fromJson(Map<String, dynamic> json) {
+    month = json['month'];
+    if (json['services'] != null) {
+      services = <Services>[];
+      json['services'].forEach((v) {
+        services!.add(new Services.fromJson(v));
+      });
+    }
+  }
+
+  Map<String, dynamic> toJson() {
+    final Map<String, dynamic> data = new Map<String, dynamic>();
+    data['month'] = this.month;
+    if (this.services != null) {
+      data['services'] = this.services!.map((v) => v.toJson()).toList();
+    }
+    return data;
+  }
+}
+
+class Services {
+  String? name;
+  double? amount;
+
+  Services({this.name, this.amount});
+
+  Services.fromJson(Map<String, dynamic> json) {
+    name = json['name'];
+    amount = json['amount'];
+  }
+
+  Map<String, dynamic> toJson() {
+    final Map<String, dynamic> data = new Map<String, dynamic>();
+    data['name'] = this.name;
+    data['amount'] = this.amount;
+    return data;
+  }
+}
