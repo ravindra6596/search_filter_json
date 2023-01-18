@@ -1,0 +1,542 @@
+[
+  {
+    "month": "July",
+    "services": [
+      {
+        "name": "Opening Balance",
+        "amount": 5566.12
+      },
+      {
+        "name": "Property Rates",
+        "amount": 0
+      },
+      {
+        "name": "Sanitation Basic",
+        "amount": 178.43
+      },
+      {
+        "name": "Waste Disposal",
+        "amount": 178.43
+      },
+      {
+        "name": "Water Basic",
+        "amount": 76.06
+      },
+      {
+        "name": "Water Metered",
+        "amount": 35.98
+      },
+      {
+        "name": "Interest",
+        "amount": 74.94
+      },
+      {
+        "name": "Journal Credit",
+        "amount": 0
+      },
+      {
+        "name": "Total",
+        "amount": 543.84
+      },
+      {
+        "name": "Closing Balance",
+        "amount": 6109.96
+      }
+    ]
+  },
+  {
+    "month": "August",
+    "services": [
+      {
+        "name": "Opening Balance",
+        "amount": 6109.96
+      },
+      {
+        "name": "Property Rates",
+        "amount": 0
+      },
+      {
+        "name": "Sanitation Basic",
+        "amount": 0
+      },
+      {
+        "name": "Waste Disposal",
+        "amount": 0
+      },
+      {
+        "name": "Water Basic",
+        "amount": 0
+      },
+      {
+        "name": "Water Metered",
+        "amount": 0
+      },
+      {
+        "name": "Interest",
+        "amount": 81.63
+      },
+      {
+        "name": "Journal Credit",
+        "amount": -46.54
+      },
+      {
+        "name": "Total",
+        "amount": 35.09
+      },
+      {
+        "name": "Closing Balance",
+        "amount": 6145.05
+      }
+    ]
+  },
+  {
+    "month": "September",
+    "services": [
+      {
+        "name": "Opening Balance",
+        "amount": 6145.05
+      },
+      {
+        "name": "Property Rates",
+        "amount": 107.4
+      },
+      {
+        "name": "Sanitation Basic",
+        "amount": 0
+      },
+      {
+        "name": "Waste Disposal",
+        "amount": 0
+      },
+      {
+        "name": "Water Basic",
+        "amount": 0
+      },
+      {
+        "name": "Water Metered",
+        "amount": 0
+      },
+      {
+        "name": "Interest",
+        "amount": 81.43
+      },
+      {
+        "name": "Journal Credit",
+        "amount": -14.61
+      },
+      {
+        "name": "Total",
+        "amount": 174.22
+      },
+      {
+        "name": "Closing Balance",
+        "amount": 6319.27
+      }
+    ]
+  },
+  {
+    "month": "October",
+    "services": [
+      {
+        "name": "Opening Balance",
+        "amount": 6319.27
+      },
+      {
+        "name": "Property Rates",
+        "amount": 107.4
+      },
+      {
+        "name": "Sanitation Basic",
+        "amount": 0
+      },
+      {
+        "name": "Waste Disposal",
+        "amount": 0
+      },
+      {
+        "name": "Water Basic",
+        "amount": 0
+      },
+      {
+        "name": "Water Metered",
+        "amount": 33.65
+      },
+      {
+        "name": "Interest",
+        "amount": 83.04
+      },
+      {
+        "name": "Journal Credit",
+        "amount": 0
+      },
+      {
+        "name": "Total",
+        "amount": 224.09
+      },
+      {
+        "name": "Closing Balance",
+        "amount": 6543.36
+      }
+    ]
+  },
+  {
+    "month": "November",
+    "services": [
+      {
+        "name": "Opening Balance",
+        "amount": 6543.36
+      },
+      {
+        "name": "Property Rates",
+        "amount": 107.4
+      },
+      {
+        "name": "Sanitation Basic",
+        "amount": 0
+      },
+      {
+        "name": "Waste Disposal",
+        "amount": 0
+      },
+      {
+        "name": "Water Basic",
+        "amount": 0
+      },
+      {
+        "name": "Water Metered",
+        "amount": 33.9
+      },
+      {
+        "name": "Interest",
+        "amount": 85.16
+      },
+      {
+        "name": "Journal Credit",
+        "amount": 0
+      },
+      {
+        "name": "Total",
+        "amount": 226.46
+      },
+      {
+        "name": "Closing Balance",
+        "amount": 6769.82
+      }
+    ]
+  },
+  {
+    "month": "December",
+    "services": [
+      {
+        "name": "Opening Balance",
+        "amount": 6769.82
+      },
+      {
+        "name": "Property Rates",
+        "amount": 0
+      },
+      {
+        "name": "Sanitation Basic",
+        "amount": 0
+      },
+      {
+        "name": "Waste Disposal",
+        "amount": 0
+      },
+      {
+        "name": "Water Basic",
+        "amount": 0
+      },
+      {
+        "name": "Water Metered",
+        "amount": 0
+      },
+      {
+        "name": "Interest",
+        "amount": 0
+      },
+      {
+        "name": "Journal Credit",
+        "amount": 0
+      },
+      {
+        "name": "Total",
+        "amount": 0
+      },
+      {
+        "name": "Closing Balance",
+        "amount": 6769.82
+      }
+    ]
+  },
+  {
+    "month": "January",
+    "services": [
+      {
+        "name": "Opening Balance",
+        "amount": 0
+      },
+      {
+        "name": "Property Rates",
+        "amount": 0
+      },
+      {
+        "name": "Sanitation Basic",
+        "amount": 0
+      },
+      {
+        "name": "Waste Disposal",
+        "amount": 0
+      },
+      {
+        "name": "Water Basic",
+        "amount": 0
+      },
+      {
+        "name": "Water Metered",
+        "amount": 0
+      },
+      {
+        "name": "Interest",
+        "amount": 0
+      },
+      {
+        "name": "Journal Credit",
+        "amount": 0
+      },
+      {
+        "name": "Total",
+        "amount": 0
+      },
+      {
+        "name": "Closing Balance",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "month": "February",
+    "services": [
+      {
+        "name": "Opening Balance",
+        "amount": 0
+      },
+      {
+        "name": "Property Rates",
+        "amount": 0
+      },
+      {
+        "name": "Sanitation Basic",
+        "amount": 0
+      },
+      {
+        "name": "Waste Disposal",
+        "amount": 0
+      },
+      {
+        "name": "Water Basic",
+        "amount": 0
+      },
+      {
+        "name": "Water Metered",
+        "amount": 0
+      },
+      {
+        "name": "Interest",
+        "amount": 0
+      },
+      {
+        "name": "Journal Credit",
+        "amount": 0
+      },
+      {
+        "name": "Total",
+        "amount": 0
+      },
+      {
+        "name": "Closing Balance",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "month": "March",
+    "services": [
+      {
+        "name": "Opening Balance",
+        "amount": 0
+      },
+      {
+        "name": "Property Rates",
+        "amount": 0
+      },
+      {
+        "name": "Sanitation Basic",
+        "amount": 0
+      },
+      {
+        "name": "Waste Disposal",
+        "amount": 0
+      },
+      {
+        "name": "Water Basic",
+        "amount": 0
+      },
+      {
+        "name": "Water Metered",
+        "amount": 0
+      },
+      {
+        "name": "Interest",
+        "amount": 0
+      },
+      {
+        "name": "Journal Credit",
+        "amount": 0
+      },
+      {
+        "name": "Total",
+        "amount": 0
+      },
+      {
+        "name": "Closing Balance",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "month": "April",
+    "services": [
+      {
+        "name": "Opening Balance",
+        "amount": 0
+      },
+      {
+        "name": "Property Rates",
+        "amount": 0
+      },
+      {
+        "name": "Sanitation Basic",
+        "amount": 0
+      },
+      {
+        "name": "Waste Disposal",
+        "amount": 0
+      },
+      {
+        "name": "Water Basic",
+        "amount": 0
+      },
+      {
+        "name": "Water Metered",
+        "amount": 0
+      },
+      {
+        "name": "Interest",
+        "amount": 0
+      },
+      {
+        "name": "Journal Credit",
+        "amount": 0
+      },
+      {
+        "name": "Total",
+        "amount": 0
+      },
+      {
+        "name": "Closing Balance",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "month": "May",
+    "services": [
+      {
+        "name": "Opening Balance",
+        "amount": 0
+      },
+      {
+        "name": "Property Rates",
+        "amount": 0
+      },
+      {
+        "name": "Sanitation Basic",
+        "amount": 0
+      },
+      {
+        "name": "Waste Disposal",
+        "amount": 0
+      },
+      {
+        "name": "Water Basic",
+        "amount": 0
+      },
+      {
+        "name": "Water Metered",
+        "amount": 0
+      },
+      {
+        "name": "Interest",
+        "amount": 0
+      },
+      {
+        "name": "Journal Credit",
+        "amount": 0
+      },
+      {
+        "name": "Total",
+        "amount": 0
+      },
+      {
+        "name": "Closing Balance",
+        "amount": 0
+      }
+    ]
+  },
+  {
+    "month": "June",
+    "services": [
+      {
+        "name": "Opening Balance",
+        "amount": 0
+      },
+      {
+        "name": "Property Rates",
+        "amount": 0
+      },
+      {
+        "name": "Sanitation Basic",
+        "amount": 0
+      },
+      {
+        "name": "Waste Disposal",
+        "amount": 0
+      },
+      {
+        "name": "Water Basic",
+        "amount": 0
+      },
+      {
+        "name": "Water Metered",
+        "amount": 0
+      },
+      {
+        "name": "Interest",
+        "amount": 0
+      },
+      {
+        "name": "Journal Credit",
+        "amount": 0
+      },
+      {
+        "name": "Total",
+        "amount": 0
+      },
+      {
+        "name": "Closing Balance",
+        "amount": 0
+      }
+    ]
+  }
+]
